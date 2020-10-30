@@ -1,30 +1,29 @@
 # 이런게 있네
 
 ## 내가 할 수 있는 거
-### c++
-#### UE 4
-### c#
-#### Unity
-#### winForm
-#### WPF
-### Java
-#### jsp
-#### Spring
-#### Andriod
-### javaScript
-### typeScript
-### Node.js
-#### React.js
-#### express.js
-#### sokect.io.js
-### python
-#### pyGame
-### DB
-#### mysql
-#### mongoDB
-### firebase
+#### c++
+- UE 4
+#### c#
+- Unity
+- winForm
+- WPF
+#### Java
+- jsp
+- Spring
+- Andriod
+#### javaScript and typeScript
+- Node.js
+- React.js
+- express.js
+- sokect.io.js
+#### python
+- pyGame
+###_ DB
+- mysql
+- mongoDB
+#### firebase
 
-# 생각나면 더 써봐
+#### 생각나면 더 써봄
 
 
 <!--
