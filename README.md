@@ -18,7 +18,7 @@
 - sokect.io.js
 #### python
 - pyGame
-###_ DB
+### DB
 - mysql
 - mongoDB
 #### firebase
